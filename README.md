@@ -1,2 +1,2 @@
-#Portif-lio-1ADS-2-T
+# Portif-lio-1ADS-2-T
 Projeto desenvolvido no Colégio Estadual Dr Gastão Vidigal, na turma do !ads, no ano de 2026. O objetivo desse portifólio é descrever autilidade e afundação de cada código do HTML, CSS e JS. As imagens, videos e áudios que aqui estão, foram retirados....
